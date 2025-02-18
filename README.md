@@ -6,12 +6,7 @@ This is a simple Django project template that includes basic features like routi
 
 - [Project Overview](#project-overview)
 - [Installation](#installation)
-- [Setup](#setup)
-- [Running the Development Server](#running-the-development-server)
-- [Structure](#structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
